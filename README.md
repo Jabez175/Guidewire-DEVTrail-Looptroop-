@@ -1,5 +1,5 @@
 # Guidewire-DEVTrail-Looptroop
-# Project Earnsure: AI-Parametric Insurance for Q-Commerce
+# Project EarnSure: AI-Parametric Insurance for Q-Commerce
 
 ## The Vision
 We are building a zero-touch, AI-powered parametric insurance platform exclusively for Q-Commerce delivery partners (e.g: Zepto, Blinkit, Instamart). Q-Commerce relies on hyper-local 10-minute delivery windows, making riders extremely vulnerable to external, uncontrollable disruptions. Our platform provides an automated financial safety net, strictly covering **loss of income**.
